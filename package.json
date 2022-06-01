@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/n-alonso/practice_mocha-test-suite/issues"
   },
-  "homepage": "https://github.com/n-alonso/practice_mocha-test-suite#readme"
+  "homepage": "https://github.com/n-alonso/practice_mocha-test-suite#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
 }
