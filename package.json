@@ -1,0 +1,19 @@
+{
+  "name": "practice_mocha-test-suite",
+  "version": "1.0.0",
+  "description": "Simple project to practice Mocha tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-alonso/practice_mocha-test-suite.git"
+  },
+  "author": "Nicolas Alonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n-alonso/practice_mocha-test-suite/issues"
+  },
+  "homepage": "https://github.com/n-alonso/practice_mocha-test-suite#readme"
+}
